@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "downlevelIteration": true
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules"]
+}
