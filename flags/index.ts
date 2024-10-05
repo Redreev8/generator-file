@@ -8,11 +8,13 @@ const flags = {
     'name': nameFalgs,
     'file': fileFalgs,
     'ts': tsFalgs,
+    'ref': tsFalgs,
     'props': propsFalg,
     'dir': dirFalg
 }
 export const aliasFlags = {
     'f': 'file',
+    'r': 'ref',
     'd': 'dir',
     'n': 'name',
     'p': 'props',

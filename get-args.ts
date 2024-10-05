@@ -13,6 +13,7 @@ const argvs: Arguments = process.argv.reduce((obj, el, i) => {
     {
         ts: true,
         props: false,
+        ref: false,
         dir: 'ui',
         name: '',
         file: []
